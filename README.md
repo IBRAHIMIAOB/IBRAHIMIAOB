@@ -1,7 +1,7 @@
-- 👋 Hi, I’m IBRAHIM ALOBAID AKA ibrahimioab
-- 👀 I’m interested in 
+- 👋 Hi, I’m IBRAHIM ALOBAID 
+- 👀 I’m interested in everything I know
 - 🌱 I’m currently studing in KSU 
-- 💞️ I’m looking to collaborate in anything i know
+- 💞️ I’m looking to collaborate in anything I know
 - 📫 How to reach me Email me at ibrahim.iaob@gmail.com
 
 <!---
